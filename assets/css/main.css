@@ -3,9 +3,9 @@ iframe html body div a .super-badge{
 }
 
 .program{
-  width:138%;
+  width:100%;
   height:600px;
-  margin-left:-19%;
+  margin-left:0%;
   border: 10px solid #333 !important;
   border-radius:10px
 }
